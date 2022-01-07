@@ -5,7 +5,7 @@ class Greeting {
         return "Hello, ${Platform().platform}!"
     }
 
-    fun hello(): String {
+    fun newFunction(): String {
         return "Hello CM!"
     }
 }
