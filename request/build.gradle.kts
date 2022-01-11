@@ -8,8 +8,8 @@ version = "1.0"
 
 kotlin {
     android()
-    iosX64()
-    iosArm64()
+    //iosX64()
+    //iosArm64()
     //iosSimulatorArm64() sure all ios dependencies support this target
 
     cocoapods {
